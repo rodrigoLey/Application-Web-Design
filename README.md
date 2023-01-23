@@ -8,3 +8,7 @@ Curso: Diseño de Aplicaciones Web<br>
 
 ## Seccion 2
 Prueba de creacion de Seccion 2 utilizando el etiquetado de Markdown<br>
+
+## Comandos utilizados de Git
+1. git version
+2. git config --global user.name "Your name"
