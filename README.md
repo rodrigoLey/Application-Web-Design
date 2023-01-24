@@ -46,3 +46,6 @@ Prueba de [Link](https://github.com/rodrigoLey/Application-Web-Design.git).
 9. git status -s: Comando para verificar el status de los archivos.
 10. git log --oneline: Comando para mostar la lista de los cambios.
 11. git reset --hard numerodecambio: Comando para regresar a un cambio hecho.
+12. git branch: Comando para listar y crear ramas.
+13. git branch -d <nombredelarama>: Comando para borrar una rama.
+14. git tag: Comando para marcar commits especificos.
