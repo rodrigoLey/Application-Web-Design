@@ -6,7 +6,7 @@ Carrera: Ing. Desarrollo de Software<br>
 Semestre: 6º Semestre<br>
 Curso: Diseño de Aplicaciones Web<br>
 
-## Seccion 2
+## Seccion de opciones de etiquetado de Markdown
 Prueba de creacion de Seccion 2 utilizando el etiquetado de Markdown<br>
 
 ## Comandos utilizados de Git
