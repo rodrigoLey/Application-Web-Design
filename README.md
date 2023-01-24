@@ -32,7 +32,7 @@ Prueba de texto en ***negrita y cursiva***.
 Prueba de [Link](https://github.com/rodrigoLey/Application-Web-Design.git).
 
 ### Imagen
-![Prueba de Imagen!](C:\Users\rodri\Pictures\StinkyBlueRat\elmemxicano.jpg "Prueba de Imagen")
+![Prueba de Imagen!](https://i.kym-cdn.com/entries/icons/facebook/000/036/651/EvDdzy7UcAU0trd.jpg "Prueba de Imagen")
 
 ## Comandos utilizados de Git
 1. git version: Comando para validar la version de Git/verificar que si se instalo Git.
