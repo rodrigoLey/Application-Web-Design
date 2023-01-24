@@ -7,7 +7,32 @@ Semestre: 6º Semestre<br>
 Curso: Diseño de Aplicaciones Web<br>
 
 ## Seccion de opciones de etiquetado de Markdown
-Prueba de creacion de Seccion 2 utilizando el etiquetado de Markdown<br>
+### Negrita
+Prueba de texto en **negrita**.
+
+### Cursiva
+Prueba de texto en *cursiva*.
+
+### Negrita y Cursiva
+Prueba de texto en ***negrita y cursiva***.
+
+### Listas Ordenadas
+1. Primero
+2. Segundo
+3. Tercero
+4. Cuarto
+
+### Listas No Ordenadas
+- Primero
+- Segundo
+- Tercero
+- Cuarto
+
+### Link
+Prueba de [Link](https://github.com/rodrigoLey/Application-Web-Design.git).
+
+### Imagen
+![Prueba de Imagen!](C:\Users\rodri\Pictures\StinkyBlueRat\elmemxicano.jpg "Prueba de Imagen")
 
 ## Comandos utilizados de Git
 1. git version: Comando para validar la version de Git/verificar que si se instalo Git.
